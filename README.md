@@ -4,8 +4,8 @@
 
 ### Data Source
 - Centers for Disease Control and Prevention (CDC), Behavioral Risk Factor Surveillance System: BRFSS Survey Data and Documentation. 
-Accessed at https://www.cdc.gov/brfss/annual_data/annual_data.html
-
+Accessed at [https://www.cdc.gov/brfss/annual_data/annual_data.html
+](https://www.cdc.gov/brfss/annual_data/annual_data.htm)
 ### Software Tools
 - Statistical Analysis: SAS Enterprise Guide
 - Data Visualization: Word
